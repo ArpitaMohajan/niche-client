@@ -12,7 +12,7 @@ const Banner = () => {
                     />
                     <Carousel.Caption>
                         <h3>First slide label</h3>
-                        <p className="text-dark">Pharmacy is the science of preparing and dispensing medical drugs.</p>
+
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -24,7 +24,7 @@ const Banner = () => {
 
                     <Carousel.Caption>
                         <h3>Second slide label</h3>
-                        <p className="text-dark">A pharmacisit is a licenced healthcare professional who specializes in providing information.</p>
+
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -36,7 +36,7 @@ const Banner = () => {
 
                     <Carousel.Caption>
                         <h3>Third slide label</h3>
-                        <p className="text-dark">Pharmacist are health professional who dispense medications,advising patients regarding the use..</p>
+
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
