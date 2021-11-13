@@ -1,0 +1,19 @@
+.add-detail form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.add-detail form input, textarea{
+    width: 40%;
+    margin-bottom: 10px;
+}
+.add{
+    color:hotpink;
+}
+.in{
+    background-color: rgb(238, 219, 219);
+}
+.ins{
+    color: coral;
+}

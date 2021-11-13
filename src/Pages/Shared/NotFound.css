@@ -1,0 +1,8 @@
+.bg {
+    background: linear-gradient(#0000007d, #0003),
+      url("https://th.bing.com/th/id/OIP.rIDsjLs2fc81bY7TwqZazAHaHa?pid=ImgDet&rs=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+  }
